@@ -8,8 +8,8 @@ Adding filetypes .redkey (RedKey Executable File) and .redkeyc (RedKey Configura
 Adding RedKey Notepad for .redkeyc, RedKey Program Creator and RedKey Program Editor for .redkey
 
 RedKey App Store introduced in RedKey Version 1.1
-# System Requirements
-OS: Windows 7 SP1 or newer
+## System Requirements
+OS: Windows 8.1 or newer
 
 RAM: 1GB
 
